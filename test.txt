@@ -1,0 +1,25 @@
+   Job Commands        Sys management      Chg environment     Function keys    
+                                                                                
+ Application........: Cross Application Support                SY 0000          
+ Menu id............: Main Menu                                                 
+ Company number.....: 15 H&K DALLAS                                             
+                                                                                
+                                                                                
+ Select option:      Application      Menu:                                     
+                                                                                
+                                 Menu Options                                   
+                      1 - Sales order processing                                
+                      2 - Purchase order processing                             
+                      3 - Accounts Receivable System                            
+                      4 - Accounts Payable System                               
+                      5 - General Ledger                                        
+                      6 - Inventory Management                                  
+                      7 - F.O.R. & Contract System                              
+                      9 - Manufacturing System                                  
+                     20 - System file inquiries     menu                        
+                     30 - System reports            menu                        
+                                                                                
+                                                                       More...  
+F3=Exit F5=Refresh F11=Chg Co F12=Previous F13=Display keys F15=Signoff         
+                                                                                
+                                                                                
